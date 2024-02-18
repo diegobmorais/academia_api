@@ -22,7 +22,7 @@ Modelo extraido do app DBeaver.
 
 ## 🚀 Como executar o projeto
 
--Clonar o repositório https://github.com/diegobmorais/Projeto-M2-PHP
+-Clonar o repositório [https://github.com/diegobmorais/academia_api.git]
 
 -Criar uma base de dados no PostgreSQL com nome **academia_api**
 
